@@ -95,9 +95,9 @@ Before going deep, we need a few words that appear in every SAFe conversation. L
 - [What is the difference between Agile and SAFe Agile?](https://agilefever.com/what-is-the-difference-between-agile-and-safe-agile/)
 - [What is SAFe, and when should an organization use it?](https://agilefever.com/what-is-safe-scaled-agile-framework/)
 - Agile Release Train (ART)
-- Program Increment (PI)
-- Value stream
-- Business agility
+- [Program Increment (PI)](https://agilefever.com/essential-guide-to-safe-pi-planning/)
+- [Value stream](https://agilefever.com/tips-for-value-stream-identification-safe-implementation/)
+- [Business agility](https://agilefever.com/mastering-safe-methodology-business-agility-strategies/)
 
 ### Step 1: Why SAFe and When to Use It
 
@@ -131,7 +131,7 @@ Teams are where SAFe work gets done. In this step, we will learn the roles on an
 - [How Kanban is used inside SAFe](https://agilefever.com/ways-kanban-is-used-in-safe-a-powerful-agile-tool-for-effective-workflow-management/)
 - [Built-in quality and technical practices: SAFe Agile Software Engineering](https://agilefever.com/safe-agile-software-engineering-certification/)
 - [Conversations that build better working relationships in SAFe](https://agilefever.com/expert-tips-for-mastering-safe-conversations/)
-- Cross-functional Agile teams
+- [Cross-functional Agile teams](https://agilefever.com/key-steps-to-building-an-agile-team/)
 
 ### Step 4: Agile Product Delivery and PI Planning
 
